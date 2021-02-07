@@ -61,7 +61,7 @@ while True:
     frame.show()
 
     # Stop if escape key is pressed
-    k = cv2.waitKey(1)
+    k = cv2.waitKey(30)
     if k == 27:
         break
     if k == 49:
