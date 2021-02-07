@@ -1,4 +1,5 @@
 from Frame import *
+import numpy as np
 
 ##############################################################################################
 #       SETTINGS        # What worked best for me:
